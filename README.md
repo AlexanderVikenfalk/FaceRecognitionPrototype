@@ -26,7 +26,8 @@ This webbsite has only been tested out on Chrome at 1920x1080.
 
 [LinkedIn](https://de.linkedin.com/in/alexander-vikenfalk-6b993b42)
 
-
+#### Expected result ####
+![alt tag](http://imgur.com/a/FK2rw)
 
 
 
