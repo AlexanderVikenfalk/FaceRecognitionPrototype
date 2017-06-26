@@ -1,6 +1,6 @@
 
 #### Author: Alexander Vikenfalk
-#### Course: Data Handling
+#### Course: Data management with XML and API development
 #### Program: Backend Development with C# (YHJUST16)
 #### School: Lernia YH
 
